@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MANE KELSAAA</string>
+    <string name="app_title">ಮನೆ-ಕೆಲಸ (Mane-Kelsa)</string>
+    <string name="trust_desc">Trust</string>
+    <string name="available">ಇಂದು ಲಭ್ಯವಿದೆ (Available)</string>
+    <string name="not_available">ಲಭ್ಯವಿಲ್ಲ (Not Available)</string>
+    <string name="rate_label">ದರ (Rate): %s</string>
+    <string name="area_label">ಸ್ಥಳ (Area): %s</string>
+    <string name="call_now">ಈಗಲೇ ಕರೆ ಮಾಡಿ (CALL NOW)</string>
+
+    <!-- Registration -->
+    <string name="register_worker">ಹೊಸ ನೋಂದಣಿ (Register New Worker)</string>
+    <string name="worker_name_hint">ಹೆಸರು (Name)</string>
+    <string name="worker_skill_hint">ಕೆಲಸದ ಪ್ರಕಾರ (Skill - e.g. Cleaning)</string>
+    <string name="worker_rate_hint">ದಿನದ ದರ (Daily Rate - e.g. ₹400)</string>
+    <string name="worker_phone_hint">ಫೋನ್ ಸಂಖ್ಯೆ (Phone Number)</string>
+    <string name="worker_location_hint">ಸ್ಥಳ (Location/Area)</string>
+    <string name="add_button">ಸೇರಿಸಿ (Add)</string>
+    <string name="cancel_button">ರದ್ದುಗೊಳಿಸಿ (Cancel)</string>
+    <string name="trust_count">ಮೆಚ್ಚುಗೆಗಳು (Trusts): %d</string>
+
+    <!-- Sample Data -->
+    <string name="worker_1_name">ಮಂಜುನಾಥ (Manjunath)</string>
+    <string name="worker_1_skill">ತೋಟಗಾರಿಕೆ (Gardening)</string>
+    <string name="worker_1_rate">₹400</string>
+    <string name="worker_1_phone">9876543210</string>
+    <string name="worker_1_location">M.G. Road</string>
+
+    <string name="worker_2_name">ರತ್ನಮ್ಮ (Ratnamma)</string>
+    <string name="worker_2_skill">ಮನೆಗೆಲಸ (Cleaning)</string>
+    <string name="worker_2_rate">₹300</string>
+    <string name="worker_2_phone">9876543211</string>
+    <string name="worker_2_location">Jayanagar</string>
+
+    <string name="worker_3_name">ಕುಮಾರ್ (Kumar)</string>
+    <string name="worker_3_skill">ತೋಟಗಾರಿಕೆ (Gardening)</string>
+    <string name="worker_3_rate">₹450</string>
+    <string name="worker_3_phone">9876543212</string>
+    <string name="worker_3_location">Indiranagar</string>
+</resources>
